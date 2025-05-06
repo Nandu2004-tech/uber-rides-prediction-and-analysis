@@ -30,10 +30,16 @@ Model Evaluation: Use metrics like MAE, MSE, RMSE, and R-squared.
 Model Deployment: Integrate the model into a real-time system.
 # Sample Code
 import numpy as np
-import pandas as pd
+ 
+ 
+ import pandas as pd
+
 from sklearn.model_selection import train_test_split
+
 from sklearn.preprocessing import StandardScaler
+
 from sklearn.svm import SVR
+
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 data = pd.read_csv('uber_data.csv')
