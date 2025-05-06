@@ -20,7 +20,7 @@ Market Insights: Adjusts to consumer behavior and competition.
 Scalability: Adapts to new markets.
 Competitive Edge: Offers predictable fare structure.
 Technological Leadership: Uses machine learning for real-world applications.
-Key Points
+ # Key Points
 Data Collection and Preprocessing: Gather and clean Uber ride data.
 Feature Engineering: Identify and create relevant features.
 Exploratory Data Analysis (EDA): Understand data patterns and correlations.
@@ -28,7 +28,7 @@ Model Selection and Training: Choose and train appropriate models.
 Hyperparameter Tuning: Optimize model performance.
 Model Evaluation: Use metrics like MAE, MSE, RMSE, and R-squared.
 Model Deployment: Integrate the model into a real-time system.
-Sample Code
+# Sample Code
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
